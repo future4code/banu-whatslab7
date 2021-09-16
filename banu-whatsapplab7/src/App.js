@@ -1,5 +1,4 @@
-import react from 'react';
-import styled from 'styled-components'
+import React from "react";
 import Mensagem from "./Mensagem.js";
 
 
